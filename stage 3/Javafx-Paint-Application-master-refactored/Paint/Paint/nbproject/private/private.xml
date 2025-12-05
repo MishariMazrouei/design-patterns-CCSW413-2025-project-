@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Asus/Desktop/مشاري%20خالد%20المزروعي/الدروس/نصي-الدروس/هندسة%20برمجميات%2026-27/نماذج%20تصميم%20البرمجيات-عملي/project/stage%203/Javafx-Paint-Application-master-refactored/Paint/Paint/src/paint/controller/SaveToXML.java</file>
+            <file>file:/C:/Users/Asus/Desktop/مشاري%20خالد%20المزروعي/الدروس/نصي-الدروس/هندسة%20برمجميات%2026-27/نماذج%20تصميم%20البرمجيات-عملي/project/stage%203/Javafx-Paint-Application-master-refactored/Paint/Paint/src/paint/controller/FileHandler.java</file>
+            <file>file:/C:/Users/Asus/Desktop/مشاري%20خالد%20المزروعي/الدروس/نصي-الدروس/هندسة%20برمجميات%2026-27/نماذج%20تصميم%20البرمجيات-عملي/project/stage%203/Javafx-Paint-Application-master-refactored/Paint/Paint/src/paint/controller/ShapeFactory.java</file>
+            <file>file:/C:/Users/Asus/Desktop/مشاري%20خالد%20المزروعي/الدروس/نصي-الدروس/هندسة%20برمجميات%2026-27/نماذج%20تصميم%20البرمجيات-عملي/project/stage%203/Javafx-Paint-Application-master-refactored/Paint/Paint/src/paint/controller/XMLFileHandler.java</file>
+            <file>file:/C:/Users/Asus/Desktop/مشاري%20خالد%20المزروعي/الدروس/نصي-الدروس/هندسة%20برمجميات%2026-27/نماذج%20تصميم%20البرمجيات-عملي/project/stage%203/Javafx-Paint-Application-master-refactored/Paint/Paint/src/paint/controller/MoveCommand.java</file>
+            <file>file:/C:/Users/Asus/Desktop/مشاري%20خالد%20المزروعي/الدروس/نصي-الدروس/هندسة%20برمجميات%2026-27/نماذج%20تصميم%20البرمجيات-عملي/project/stage%203/Javafx-Paint-Application-master-refactored/Paint/Paint/src/paint/controller/ResizeCommand.java</file>
+            <file>file:/C:/Users/Asus/Desktop/مشاري%20خالد%20المزروعي/الدروس/نصي-الدروس/هندسة%20برمجميات%2026-27/نماذج%20تصميم%20البرمجيات-عملي/project/stage%203/Javafx-Paint-Application-master-refactored/Paint/Paint/src/paint/controller/DrawingEngine.java</file>
+            <file>file:/C:/Users/Asus/Desktop/مشاري%20خالد%20المزروعي/الدروس/نصي-الدروس/هندسة%20برمجميات%2026-27/نماذج%20تصميم%20البرمجيات-عملي/project/stage%203/Javafx-Paint-Application-master-refactored/Paint/Paint/src/paint/controller/JSONFileHandler.java</file>
+            <file>file:/C:/Users/Asus/Desktop/مشاري%20خالد%20المزروعي/الدروس/نصي-الدروس/هندسة%20برمجميات%2026-27/نماذج%20تصميم%20البرمجيات-عملي/project/stage%203/Javafx-Paint-Application-master-refactored/Paint/Paint/src/paint/controller/FXMLDocumentController.java</file>
+            <file>file:/C:/Users/Asus/Desktop/مشاري%20خالد%20المزروعي/الدروس/نصي-الدروس/هندسة%20برمجميات%2026-27/نماذج%20تصميم%20البرمجيات-عملي/project/stage%203/Javafx-Paint-Application-master-refactored/Paint/Paint/src/paint/Paint.java</file>
+            <file>file:/C:/Users/Asus/Desktop/مشاري%20خالد%20المزروعي/الدروس/نصي-الدروس/هندسة%20برمجميات%2026-27/نماذج%20تصميم%20البرمجيات-عملي/project/stage%203/Javafx-Paint-Application-master-refactored/Paint/Paint/src/paint/controller/Command.java</file>
+            <file>file:/C:/Users/Asus/Desktop/مشاري%20خالد%20المزروعي/الدروس/نصي-الدروس/هندسة%20برمجميات%2026-27/نماذج%20تصميم%20البرمجيات-عملي/project/stage%203/Javafx-Paint-Application-master-refactored/Paint/Paint/src/paint/controller/RecolorCommand.java</file>
+            <file>file:/C:/Users/Asus/Desktop/مشاري%20خالد%20المزروعي/الدروس/نصي-الدروس/هندسة%20برمجميات%2026-27/نماذج%20تصميم%20البرمجيات-عملي/project/stage%203/Javafx-Paint-Application-master-refactored/Paint/Paint/src/paint/controller/LoadFromXML.java</file>
+            <file>file:/C:/Users/Asus/Desktop/مشاري%20خالد%20المزروعي/الدروس/نصي-الدروس/هندسة%20برمجميات%2026-27/نماذج%20تصميم%20البرمجيات-عملي/project/stage%203/Javafx-Paint-Application-master-refactored/Paint/Paint/src/paint/controller/RemoveShapeCommand.java</file>
+            <file>file:/C:/Users/Asus/Desktop/مشاري%20خالد%20المزروعي/الدروس/نصي-الدروس/هندسة%20برمجميات%2026-27/نماذج%20تصميم%20البرمجيات-عملي/project/stage%203/Javafx-Paint-Application-master-refactored/Paint/Paint/src/paint/controller/AddShapeCommand.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+<Ellipse endPositionX="258.0" endPositionY="156.0" fillB="0.0" fillG="0.0" fillR="0.0" hRadius="69.0" startPositionX="120.0" startPositionY="58.0" strockB="0.3019607961177826" strockG="0.3019607961177826" strockR="0.9019607901573181" topLeftX="235.0" topLeftY="70.0" vRadius="49.0"/>
+<Square endPositionX="686.0" endPositionY="205.0" fillB="0.10196078568696976" fillG="0.4000000059604645" fillR="0.7019608020782471" height="100.0" startPositionX="586.0" startPositionY="87.0" strockB="0.10196078568696976" strockG="0.4000000059604645" strockR="0.7019608020782471" topLeftX="586.0" topLeftY="87.0" width="100.0"/>
+<Square endPositionX="340.0" endPositionY="221.0" fillB="0.0" fillG="0.0" fillR="0.0" height="0.0" startPositionX="340.0" startPositionY="220.0" strockB="0.10196078568696976" strockG="0.4000000059604645" strockR="0.7019608020782471" topLeftX="340.0" topLeftY="220.0" width="0.0"/>
+<Square endPositionX="533.0" endPositionY="156.0" fillB="0.0" fillG="0.0" fillR="0.0" height="0.0" startPositionX="533.0" startPositionY="155.0" strockB="0.10196078568696976" strockG="0.4000000059604645" strockR="0.7019608020782471" topLeftX="265.0" topLeftY="268.0" width="0.0"/>
+</root>
